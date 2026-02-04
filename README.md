@@ -1,1 +1,1 @@
-qwertyuioplkjhgfdsazxcvbnmqwertyuiop.netlify.app
+(https://qwertyuioplkjhgfdsazxcvbnmqwertyuiop.netlify.app/)
